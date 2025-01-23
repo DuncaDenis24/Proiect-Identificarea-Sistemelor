@@ -16,6 +16,7 @@ This project involves identifying and analyzing second-order systems through exp
    - [ARMAX Model](#52-armax-model)
 
 ---
+![date_experimentale](https://github.com/user-attachments/assets/d88e03a3-bf71-4227-8f62-34859a23fec0)
 
 ## 1. Experimental Data
 - **Inputs**: `u(y)` represents the system input.
@@ -31,7 +32,7 @@ This project involves identifying and analyzing second-order systems through exp
 1. **Data Acquisition**:
    - Determine proportionality factor `K` and resonance parameters `Mr` and `ζ`.
 2. **Resonance Period** (`Tr`) and Natural Frequency (`ωn`):
-   - Formulae:
+   - Formula:
      ```
      Tr = t(274) - t(257)  
      ωn = ωr / √(1 - 2ζ²)
